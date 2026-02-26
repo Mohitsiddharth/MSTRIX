@@ -104,7 +104,7 @@ export default function About() {
           className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8"
         >
           {[
-            { number: '8+', label: 'CGPA' },
+            { number: '8.5+', label: 'CGPA' },
             { number: '6+', label: 'Projects Completed' },
             { number: '5+', label: 'Hackathons' },
             { number: '100%', label: 'Dedication' },
