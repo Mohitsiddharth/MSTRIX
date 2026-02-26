@@ -4,12 +4,12 @@ import { GraduationCap, Award } from 'lucide-react';
 
 const education = [
   {
-    degree: 'Bachelor of Engineering in Computer Science and Engineering',
+    degree: 'Bachelor of Engineering in Information Science and Engineering',
     institution: 'Global Academy of Technology, Bangalore',
     period: 'Oct 2023 - Jul 2027',
     focus: 'Core Computer Science, Software Development, and Emerging Technologies',
     achievements: [
-      'GPA: 8.4/10',
+      'CGPA: 8.4/10',
       'Active participation in technical events and hackathons',
       'Oracle Cloud Infrastructure 2025 Certified Architect Associate',
     ],

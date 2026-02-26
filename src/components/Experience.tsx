@@ -6,7 +6,7 @@ const experiences = [
   {
     role: 'Cybersecurity Intern',
     company: 'MAHE-ISAC (Manipal Academy of Higher Education – ISAC)',
-    period: '2024',
+    period: '2026',
     description: 'Completed an intensive 1-month internship focused on cybersecurity fundamentals, ethical hacking, and network security analysis.',
     achievements: [
       'Worked with Kali Linux and Ubuntu for secure testing environments',
@@ -40,7 +40,7 @@ const experiences = [
   {
     role: 'Full Stack Developer',
     company: 'Independent Projects',
-    period: '2024 - Present',
+    period: '2025 - Present',
     description: 'Developing high-performance web applications with advanced animations, 3D integrations, and AI-powered features.',
     achievements: [
       'Built FIVE – immersive cinematic portfolio using React, TypeScript, GSAP, and Three.js',
