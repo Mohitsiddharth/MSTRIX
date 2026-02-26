@@ -1,6 +1,6 @@
-# Alex Carter - Creative Frontend Engineer Portfolio
+# Mohit Siddharth T- Student Developer Portfolio
 
-A highly animated, immersive, cinematic portfolio website featuring 3D WebGL graphics, scroll-driven animations, and smooth transitions inspired by wondermakers.games.
+A highly animated, immersive, cinematic portfolio website featuring 3D WebGL graphics, scroll-driven animations, and smooth transitions.
 
 ## Tech Stack
 
@@ -196,8 +196,3 @@ src/
 
 MIT License - Feel free to use this template for your own portfolio!
 
-## Credits
-
-Inspired by [wondermakers.games](https://wondermakers.games/)
-
-Built with modern web technologies and a passion for creative frontend development.
